@@ -1,0 +1,13 @@
+{
+  "appName": "My App",
+  "home": "Home",
+  "about": "About",
+  "toggleTheme": "Toggle Theme",
+  "welcomeMessage": "Welcome to the Home Page",
+  "homeDescription": "This is the home page of our application. It's now mobile-friendly and multilingual!",
+  "aboutTitle": "About Us",
+  "aboutDescription": "This is the about page of our application. It's now mobile-friendly and multilingual!",
+  "notFoundTitle": "404 - Page Not Found",
+  "notFoundDescription": "The page you are looking for does not exist.",
+  "goBackHome": "Go back to the home page"
+}

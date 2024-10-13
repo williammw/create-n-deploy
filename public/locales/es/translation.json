@@ -1,0 +1,13 @@
+ {
+   "appName": "Mi Aplicación",
+   "home": "Inicio",
+   "about": "Acerca de",
+   "toggleTheme": "Cambiar Tema",
+   "welcomeMessage": "Bienvenido a la Página de Inicio",
+   "homeDescription": "Esta es la página de inicio de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
+   "aboutTitle": "Sobre Nosotros",
+   "aboutDescription": "Esta es la página 'Acerca de' de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
+   "notFoundTitle": "404 - Página No Encontrada",
+   "notFoundDescription": "La página que estás buscando no existe.",
+   "goBackHome": "Volver a la página de inicio"
+ }
