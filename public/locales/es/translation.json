@@ -1,13 +1,42 @@
- {
-   "appName": "Mi Aplicación",
-   "home": "Inicio",
-   "about": "Acerca de",
-   "toggleTheme": "Cambiar Tema",
-   "welcomeMessage": "Bienvenido a la Página de Inicio",
-   "homeDescription": "Esta es la página de inicio de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
-   "aboutTitle": "Sobre Nosotros",
-   "aboutDescription": "Esta es la página 'Acerca de' de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
-   "notFoundTitle": "404 - Página No Encontrada",
-   "notFoundDescription": "La página que estás buscando no existe.",
-   "goBackHome": "Volver a la página de inicio"
- }
+{
+  "appName": "Mi Aplicación",
+  "home": "Inicio",
+  "about": "Acerca de",
+  "toggleTheme": "Cambiar Tema",
+  "welcomeMessage": "Bienvenido a la Página de Inicio",
+  "homeDescription": "Esta es la página de inicio de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
+  "aboutTitle": "Sobre Nosotros",
+  "aboutDescription": "Esta es la página 'Acerca de' de nuestra aplicación. ¡Ahora es compatible con dispositivos móviles y multilingüe!",
+  "notFoundTitle": "404 - Página No Encontrada",
+  "notFoundDescription": "La página que estás buscando no existe.",
+  "goBackHome": "Volver a la página de inicio",
+  "login": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Ingresar"
+  },
+  "register": {
+    "title": "Registrarse",
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Registrarse"
+  },
+  "profile": "Perfil",
+  "settings": {
+    "title": "Configuración",
+    "appearance": "Apariencia",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "language": "Idioma",
+    "languages": {
+      "english": "Inglés",
+      "spanish": "Español",
+      "simplifiedChinese": "Chino simplificado",
+      "traditionalChinese": "Chino tradicional"
+    },
+    "notifications": "Notificaciones",
+    "enableNotifications": "Activar notificaciones"
+  }
+}

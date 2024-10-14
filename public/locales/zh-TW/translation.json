@@ -1,0 +1,48 @@
+{
+   "appName": "我的應用",
+   "home": "首頁",
+   "about": "關於",
+   "toggleTheme": "切換主題",
+   "welcomeMessage": "歡迎來到首頁",
+   "homeDescription": "這是我們應用的首頁。現在它支持移動設備和多語言！",
+   "aboutTitle": "關於我們",
+   "aboutDescription": "這是我們應用的「關於」頁面。現在它支持移動設備和多語言！",
+   "notFoundTitle": "404 - 頁面未找到",
+   "notFoundDescription": "您正在尋找的頁面不存在。",
+   "goBackHome": "返回首頁",
+   "login": {
+      "title": "登入",
+      "email": "電子郵箱",
+      "password": "密碼",
+      "submit": "登入"
+   },
+   "register": {
+      "title": "註冊",
+      "username": "用戶名",
+      "email": "電子郵箱",
+      "password": "密碼",
+      "submit": "註冊"
+   },
+   "userProfile": {
+      "title": "用戶資料",
+      "username": "用戶名",
+      "email": "電子郵箱",
+      "joinDate": "註冊日期",
+      "editProfile": "編輯資料"
+   },
+   "settings": {
+      "title": "設定",
+      "appearance": "外觀",
+      "lightMode": "淺色模式",
+      "darkMode": "深色模式",
+      "language": "語言",
+      "languages": {
+         "english": "英語",
+         "spanish": "西班牙語",
+         "simplifiedChinese": "簡體中文",
+         "traditionalChinese": "繁體中文"
+      },
+      "notifications": "通知",
+      "enableNotifications": "啟用通知"
+   }
+}
